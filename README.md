@@ -1,1 +1,1 @@
-# Otimizacao_de_Classificacao_com_PCA-Selecao_de_Features_k-NN-Validacao_Cruzada
+#Otimização de Classificação com PCA, Seleção de Features e k-NN: Uma Análise Comparativa com Validação Cruzada
